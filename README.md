@@ -22,11 +22,11 @@ I'm Alexandros Peteinaris, a business owner turned software developer. As the sa
   
 </p>
 
-<h2 align=center>Github Stats</h2>
+<!-- <h2 align=center>Github Stats</h2>
 
 <p align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexpeti&layout=compact" />
-</p>
+</p> -->
 
 
 
