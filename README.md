@@ -14,8 +14,8 @@ I'm Alexandros Peteinaris, a business owner turned software developer. As the sa
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 
   <img height=40 src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height=40 src="https://user-images.githubusercontent.com/110426010/233459250-69fa99e3-15a0-47dd-b745-b47ff2f76fbe.svg" />&nbsp;&nbsp;&nbsp;
-  <img height=40 src="https://user-images.githubusercontent.com/110426010/233459289-3c66730f-f3a6-48b1-8666-b0f0937a37d9.svg" />&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+<!--   <img height=40 src="https://user-images.githubusercontent.com/110426010/233459250-69fa99e3-15a0-47dd-b745-b47ff2f76fbe.svg" />&nbsp;&nbsp;&nbsp;
+  <img height=40 src="https://user-images.githubusercontent.com/110426010/233459289-3c66730f-f3a6-48b1-8666-b0f0937a37d9.svg" />&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; -->
   
 
 
