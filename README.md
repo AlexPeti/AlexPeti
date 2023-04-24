@@ -4,7 +4,7 @@ I'm Alexandros Peteinaris, a business owner turned software developer. As the sa
 <br>
 <h2 align=center>Programming Languages, Frameworks & Tools</h2>
 
-<p align=center>
+<!-- <p align=center>
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img height=40 src="https://user-images.githubusercontent.com/110426010/232903299-ba07b280-d9d5-4d57-a717-926c71d38ef0.png" />
   <img height=40 src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" />&nbsp; &nbsp; &nbsp; 
@@ -23,11 +23,13 @@ I'm Alexandros Peteinaris, a business owner turned software developer. As the sa
   
 </p>
 
-<!-- <h2 align=center>Github Stats</h2>
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,js,html,css,mysql,git,postman)](https://skillicons.dev) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,js,html,css,mysql,git,postman" />
+  </a>
+</p>
 
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexpeti&layout=compact" />
-</p> -->
 
 
 
