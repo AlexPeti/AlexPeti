@@ -26,7 +26,7 @@ I'm Alexandros Peteinaris, a business owner turned software developer. As the sa
 <!-- [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,js,html,css,mysql,git,postman)](https://skillicons.dev) -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,js,html,css,mysql,git,postman" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,js,html,css,bootstrap,mysql,git,postman" />
   </a>
 </p>
 
