@@ -30,6 +30,10 @@ I'm Alexandros Peteinaris, a business owner turned software developer. As the sa
   </a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexPeti&theme=dark&background=35,d22,00f)](https://git.io/streak-stats)
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexPeti)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 
