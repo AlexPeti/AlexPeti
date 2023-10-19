@@ -1,6 +1,7 @@
 <h1 align="center">Hello there!:wave:</h1>
 
-I'm Alexandros Peteinaris, a business owner turned software developer. As the saying goes, *"Choose a job you love, and you will never have to work a day in your life."* I'm fortunate to have found my passion in programming and I'm committed to pursuing it as my career. Discovering my love for programming last summer, I've embarked on an exciting journey of learning and skill-building through Coding Factory, a cutting-edge full-stack web application program offered by the Athens University of Economics and Business. 
+I'm Alexandros Peteinaris, a business owner turned software developer. Discovering my love for programming last summer, I've embarked on an exciting journey of learning and skill-building through Coding Factory, a cutting-edge full-stack web application program offered by the Athens University of Economics and Business. 
+Immediately after successfully graduating from Coding Factory, I begun my professional career as a Junior Java Developer.
 <br>
 <h2 align=center>Programming Languages, Frameworks & Tools</h2>
 
