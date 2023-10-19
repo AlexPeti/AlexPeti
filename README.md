@@ -1,8 +1,9 @@
 <h1 align="center">Hello there!:wave:</h1>
 
-I'm Alexandros Peteinaris, a business owner turned software developer. Discovering my love for programming last summer, I've embarked on an exciting journey of learning and skill-building through Coding Factory, a cutting-edge full-stack web application program offered by the Athens University of Economics and Business. 
+I'm Alexandros Peteinaris, a business owner turned software developer. Discovering my love for programming last summer, I embarked on an exciting journey of learning and skill-building through Coding Factory, a cutting-edge full-stack web application program offered by the Athens University of Economics and Business.
 <br>
-Immediately after successfully graduating from Coding Factory, I begun my professional career as a Junior Java Developer.
+<br>
+Immediately after successfully graduating from Coding Factory, I began my professional career as a Junior Java Developer. In my current role, I am responsible for developing, maintaining, and testing Java EE web applications and RESTful/SOAP web services.
 <br>
 <h2 align=center>Programming Languages, Frameworks & Tools</h2>
 
