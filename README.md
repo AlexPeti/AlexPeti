@@ -16,10 +16,10 @@ Immediately after successfully graduating from Coding Factory, I began my profes
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AlexPeti&show_icons=true&theme=tokyonight&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AlexPeti&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexPeti&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexPeti&layout=compact&langs_count=8&card_width=290&theme=tokyonight" />
 </a>
 
 
