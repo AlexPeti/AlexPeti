@@ -9,34 +9,25 @@ Immediately after successfully graduating from Coding Factory, I began my profes
 
 </p>
 
-<!-- ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexandros-peteinaris/) -->
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,js,html,css,mysql,git,postman)](https://skillicons.dev) -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,cs,dotnet,js,ts,nodejs,html,css,bootstrap,postgres,mysql,mongodb,git,github,gitlab,postman,docker" />
   </a>
 </p>
 
-
-
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlexPeti&theme=monokai&no-frame=true&no-bg=true&margin-w=4) -->
-
-
-
-
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexPeti)](https://github.com/anuraghazra/github-readme-stats) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AlexPeti&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexPeti&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 
 
 
 
-          
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPeti&layout=compact)
 
-      
-          
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexPeti&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  --
 
 <!---
 AlexPeti/AlexPeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
