@@ -7,7 +7,9 @@ Immediately after successfully graduating from Coding Factory, I began my profes
 <br>
 <h2 align=center>Programming Languages, Frameworks & Tools</h2>
 
-</p>
+</p
+
+  ![](https://komarev.com/ghpvc/?username=AlexPeti&color=595CD1)
 
 <p align="center">
   <a href="https://skillicons.dev">
