@@ -1,9 +1,7 @@
 <!-- <h1 align="center">Hello there!</h1> -->
 # 💫 About Me:
 
-I'm Alexandros Peteinaris, a business owner turned software developer. Discovering my love for programming last summer, I embarked on an exciting journey of learning and skill-building through Coding Factory, a cutting-edge full-stack web application program offered by the Athens University of Economics and Business.
-<br>
-Immediately after successfully graduating from Coding Factory, I began my professional career as a Junior Java Developer.
+I am a Software Engineer focused on server-side application development. My work primarily involves Java EE, Spring Boot, and creating REST APIs to enhance server-side operations. I am continuously seeking to expand my knowledge, and am currently exploring microservices architecture, Docker, and looking to include test-driven development practices into my workflow.
 <br>
 <h2 align=center>Programming Languages, Frameworks & Tools</h2>
 
