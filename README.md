@@ -11,7 +11,7 @@ I am a Software Engineer focused on server-side application development. My work
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,cs,dotnet,js,ts,nodejs,html,css,bootstrap,postgres,mysql,mongodb,git,github,gitlab,postman,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,cs,dotnet,js,ts,nodejs,py,html,css,bootstrap,postgres,mysql,mongodb,git,github,gitlab,postman,docker,elasticsearch,jenkins" />
   </a>
 </p>
 
